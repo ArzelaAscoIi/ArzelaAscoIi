@@ -1,6 +1,6 @@
 [![Repos Badge](https://badges.pufler.dev/repos/ArzelaAscoIi)](https://badges.pufler.dev)
 [![Years Badge](https://badges.pufler.dev/years/ArzelaAscoIi)](https://badges.pufler.dev)
-[![Visits Badge](https://badges.pufler.dev/visits/ArzelaAscoIi/ArzelaAscoIi)](https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/ArzelaAscoIi/UAVDocs)](https://badges.pufler.dev)
 
 <!--
 **ArzelaAscoIi/ArzelaAscoIi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
